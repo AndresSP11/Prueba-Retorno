@@ -1,1 +1,3 @@
-print("Hola mundo ");
+import numpy as n;
+
+a=n[][];
